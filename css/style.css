@@ -1,0 +1,16 @@
+body{
+    background: url(../images/SportsHD.jpg) no-repeat 0px 0px;
+    background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    -ms-background-size: cover;
+    background-attachment: fixed;
+}
+.page-wrapper{
+width: 900px;	
+margin:5% auto;
+padding: 15px;
+background-color:white;
+box-shadow: 1px 1px 1px 1px black;
+}
